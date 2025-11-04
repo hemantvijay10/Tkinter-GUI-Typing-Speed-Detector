@@ -1,0 +1,89 @@
+================================================================================
+TKINTER GUI TYPING SPEED DETECTOR
+================================================================================
+
+Author: Hemant Vijay
+Last Updated: 4-Nov-2025
+
+================================================================================
+PROJECT CREDITS
+================================================================================
+
+This project was created as part of the "100 Days of Code" course by Angela Yu.
+
+Course Information:
+Course Name: 100 Days of Code - The Complete Python Pro Bootcamp
+Instructor: Angela Yu
+Course URL: https://www.udemy.com/course/100-days-of-code/learn/practice/1251140#overview
+
+Special thanks to Angela Yu for providing excellent Python programming education
+and project assignments that help students learn by building real applications.
+
+================================================================================
+THIRD-PARTY LIBRARIES AND DEPENDENCIES
+================================================================================
+
+This application uses the following libraries:
+
+1. Tkinter (tk)
+   Description: Python's standard GUI (Graphical User Interface) library
+   License: Python Software Foundation License
+   Usage: Used for creating the desktop application interface
+   Note: Tkinter comes built-in with Python and requires no separate installation
+   Website: https://docs.python.org/3/library/tkinter.html
+
+2. Time (time)
+   Description: Python's standard library for time-related functions
+   License: Python Software Foundation License
+   Usage: Used for measuring typing duration
+   Note: Part of Python's standard library
+   Website: https://docs.python.org/3/library/time.html
+
+3. Random (random)
+   Description: Python's standard library for generating random numbers
+   License: Python Software Foundation License
+   Usage: Used for randomly selecting typing test samples
+   Note: Part of Python's standard library
+   Website: https://docs.python.org/3/library/random.html
+
+All libraries used in this project are part of Python's standard library and
+are available under the Python Software Foundation License, which allows for
+free use, modification, and distribution.
+
+================================================================================
+COPYRIGHT AND LICENSE
+================================================================================
+
+Copyright (c) 2025 Hemant Vijay
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+the Software for personal and educational purposes.
+
+This project is provided "as is", without warranty of any kind, express or
+implied. The author shall not be held liable for any damages arising from
+the use of this software.
+
+================================================================================
+PYTHON SOFTWARE FOUNDATION LICENSE
+================================================================================
+
+Python and its standard libraries (including tkinter, time, and random) are
+licensed under the Python Software Foundation License (PSF License).
+
+The PSF License is a BSD-style permissive license that allows for both
+commercial and non-commercial use, modification, and distribution of Python
+and its libraries.
+
+For full details of the PSF License, please visit:
+https://docs.python.org/3/license.html
+
+================================================================================
+SYSTEM REQUIREMENTS
+================================================================================
+
+Operating System: Windows 11 Pro 64-bit (tested and verified)
+Python Version: Python 3.6 or higher
+Required Libraries: None (all libraries are part of Python standard library)
+
+================================================================================
